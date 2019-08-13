@@ -1,0 +1,27 @@
+<DOCTYPE html>
+<html>
+<body>
+<h1>Countries and Cities</h1>
+<ol type="I">
+<li>USA</li>
+</ol>
+<ol type="a">
+<li>New York</li>
+<li>California</li>
+</ol>
+<ol start="II">
+<li>Norway</li>
+</ol>
+<ol type="a">
+<li>Oslo</li>
+<li>Trondheim</li>
+</ol>
+<ol start="III">
+<li>Italy</li>
+</ol>
+<ol type="a">
+<li>Rome</li>
+<li>Venize</li>
+</ol>
+</body>
+</html>
